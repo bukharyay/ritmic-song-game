@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: c446162f455eb5e44996392f77123fcc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 565
+        width: 131
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29e8328f4a17a548863aaa13a2d0716
+      internalID: 300450762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 595
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d52207abd8fa7744b12359bb300a456
+      internalID: -1834947599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 571
+        width: 131
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f584bf4567d6d8449b0398a64dd809f
+      internalID: -1810425470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 596
+        width: 130
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913ceb433a21ae947a5078f75f7fa6eb
+      internalID: 491360128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 591
+        width: 132
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10769d55acafd3479868ce99a35e54a
+      internalID: -710551239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 665
+        width: 129
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1332c19ddbd004b9d9b34262965d0c
+      internalID: 313661292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 581
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeedbd34c454b374dbda92c3cd191f1a
+      internalID: 993325375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_7
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 604
+        width: 107
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9627fe1db09746b47a929e2443304a72
+      internalID: -840491047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 483
+        width: 132
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea193314b24864e8c13c46962c4a08
+      internalID: 1093919558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 577
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046cab408311bee41b1cbd180315079b
+      internalID: -1192332251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 483
+        width: 131
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a6eada250cbbf43b331e2d8a0589e4
+      internalID: -49275795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_11
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 561
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c1291edaef54e46ad6d363bfdfa0be
+      internalID: -487177258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_12
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 581
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dceecd1e17b27544a80102dd93fa550
+      internalID: 484121830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 461
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126e0fdd84b669e4eb8b717aec344db0
+      internalID: -777888291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 363
+        width: 132
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87b046feb91ad14692127bba50847b8
+      internalID: -2136155930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 463
+        width: 130
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00091341e9d70864db633840afb16a6c
+      internalID: -21556731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_16
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 469
+        width: 131
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3c336641522544998cf5167b215562
+      internalID: -2057905692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_17
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 375
+        width: 131
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7411f0c50f7ad844ba8dbcebfa391337
+      internalID: 1779633243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_18
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 453
+        width: 132
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c45a7362c0eb8429d0a3cfcb24369a
+      internalID: -1479990810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_19
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 473
+        width: 131
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a73ccb80802e43836edc2dbeb8a3f
+      internalID: 214337581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 347
+        width: 131
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec64190ab7bad75419f73228ea4e230a
+      internalID: 680743670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 345
+        width: 132
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5fe788daaf12f4583c728624dc907c
+      internalID: -559033453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 353
+        width: 131
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e1a129d4f139a47959e2f35b0fe3ab
+      internalID: -468417094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_23
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 243
+        width: 133
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a068cefe0559de4e991b214a9cec388
+      internalID: 1621316870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_24
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 349
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5306d35a246fd49a45c71da18ab95a
+      internalID: -416151519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_25
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 365
+        width: 131
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2187a26dab60540a34cb05eb92c5ca
+      internalID: 358960222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 135
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57be11cba3dcc2847a77a959e5691155
+      internalID: -1832871018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_27
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 264
+        width: 132
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d1589cf7d0d7e44b5db549a26952cd
+      internalID: 432444403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 245
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d50cb5c7bf6cc64a9c303d5111101bf
+      internalID: -275506542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_29
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 235
+        width: 133
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f7ce7288568840a27d039d05569a4
+      internalID: -1215085715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_30
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 237
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f20cebe51de048b63c86c1d0cfa55
+      internalID: -965251888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_31
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 241
+        width: 133
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b583c6ea7c487409d2e1bbbd948045
+      internalID: 1733244070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_32
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 241
+        width: 133
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e034eb03146eeb84ab3565e9bbcba151
+      internalID: -227405626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 136
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da5297313a4301449238f6d3375f88b
+      internalID: -733212989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_34
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 123
+        width: 135
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0e159f9b93c2f4eba2a5810cd5a950
+      internalID: -1355125985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_35
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 117
+        width: 139
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07359f42215cab248b95e6e0f0234c51
+      internalID: 639284373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_36
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 119
+        width: 138
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba35bcc8997b1134f99efd7e872c7189
+      internalID: 1483478997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_37
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 119
+        width: 138
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12c775eac1937945a8aad7a67380dc4
+      internalID: -124293745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_38
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 123
+        width: 135
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a061d00ee3aaa4b9399205308eb7e8
+      internalID: -1426616461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_39
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 119
+        width: 138
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68383c94252af14ba35c443e8943dcd
+      internalID: 646757103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 152
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83858c94451359842b2f92166fbb38e8
+      internalID: 530057248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_41
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc66625b18496aa418018d6cc96c606d
+      internalID: -2052544701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_42
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1
+        width: 147
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d830b6fda9af24ead1d468c7394cbe
+      internalID: -191595380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_43
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1
+        width: 138
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2cb84f868f9ad43a6f65ff672e01aa
+      internalID: -1763119003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1
+        width: 139
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8632ebdedc01841bbd5775cb6025e6
+      internalID: -427604929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_45
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1
+        width: 130
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a560834943efa94996cc5f2075f1f41
+      internalID: -799001850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_46
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 24
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85996c5374985a9469ce6df94b3417af
+      internalID: -1945313835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_47
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1
+        width: 139
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696c319d229542848997a79321183768
+      internalID: 1239683862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_0: 300450762
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_1: -1834947599
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_10: -49275795
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_11: -487177258
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_12: 484121830
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_13: -777888291
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_14: -2136155930
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_15: -21556731
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_16: -2057905692
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_17: 1779633243
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_18: -1479990810
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_19: 214337581
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_2: -1810425470
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_20: 680743670
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_21: -559033453
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_22: -468417094
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_23: 1621316870
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_24: -416151519
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_25: 358960222
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_26: -1832871018
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_27: 432444403
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_28: -275506542
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_29: -1215085715
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_3: 491360128
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_30: -965251888
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_31: 1733244070
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_32: -227405626
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_33: -733212989
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_34: -1355125985
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_35: 639284373
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_36: 1483478997
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_37: -124293745
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_38: -1426616461
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_39: 646757103
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_4: -710551239
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_40: 530057248
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_41: -2052544701
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_42: -191595380
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_43: -1763119003
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_44: -427604929
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_45: -799001850
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_46: -1945313835
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_47: 1239683862
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_5: 313661292
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_6: 993325375
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_7: -840491047
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_8: 1093919558
+      3DS - Taiko no Tatsujin Don to Katsu no Jikuu Daibouken - Idolmster_9: -1192332251
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
