@@ -6,14 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Start.unity
-    guid: 56cd17ad47b67244ea9075fb085acba5
-  - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
-    guid: 86dc378cca96dcc4e84f095316cb6729
-  - enabled: 1
-    path: Assets/Scenes/Pick Song.unity
-    guid: c0c99f2e25f4c3948887c12f785b65e5
-  m_configObjects:
-    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: cc47370246ab5054d816f578e109306d, type: 2}
-    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 9418a637f12044a46ba9c824974f0d3d, type: 2}
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
