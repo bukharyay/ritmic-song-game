@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,28 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Wii - Taiko no Tatsujin Wii Dodoon to 2 Yome - Headphones Don _ Kat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1286
+        height: 3633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4505715ddaa4ac94da4c0d43cebc4ac3
+      internalID: -1974293900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +153,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wii - Taiko no Tatsujin Wii Dodoon to 2 Yome - Headphones Don _ Kat_0: -1974293900
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

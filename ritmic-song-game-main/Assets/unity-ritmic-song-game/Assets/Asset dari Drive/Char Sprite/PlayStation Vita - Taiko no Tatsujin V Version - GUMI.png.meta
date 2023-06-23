@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 70
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,7 +121,1792 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1509
+        width: 134
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d081f456911b604ab2227afed2453e0
+      internalID: -1400655117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1575
+        width: 135
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156964fa447f5df4eba076a44ebfc095
+      internalID: -1712450917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1647
+        width: 131
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad31d568f6d01364b98d8f22c0ce6797
+      internalID: -1973320874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1705
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64201ecf0c505834095f850e3f4f30bf
+      internalID: 1740305629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1689
+        width: 131
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3abb6e28f774ac45996afd40ccd94be
+      internalID: -1565672010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_5
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1703
+        width: 131
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c6aba2b48db254e901bf7ceb95f565
+      internalID: 885191533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1459
+        width: 134
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d12d8df52e34944af26abb0431eb6b
+      internalID: 1223461738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1551
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4df6eecdf4f50845892492a1687cad6
+      internalID: 2985315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1599
+        width: 131
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fd68534fd37ae47b52f2ec6c84d779
+      internalID: 1521182919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_9
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1577
+        width: 133
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a6acec0e453f547ab077d7fa8034af
+      internalID: 1009033114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_10
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1577
+        width: 134
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71723462b0cbf7419ed1a09789988e3
+      internalID: 1208536545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1397
+        width: 136
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0961178101a3f47b5e072d90e6a295
+      internalID: 752160124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1387
+        width: 138
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b509fd50de426d94b986fdf56b234918
+      internalID: 934779563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1459
+        width: 192
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd52ecc66202a364798186e85b8d56cc
+      internalID: -1195050369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1405
+        width: 135
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087af9052c738144c91772f5ca6719ca
+      internalID: -369282398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_15
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1387
+        width: 137
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff99f81840aeff4288fa7b72ec115eb
+      internalID: -2095903421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1451
+        width: 133
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f83b51a62d3314b9037c1fcdfb0e04
+      internalID: -338734973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1207
+        width: 137
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059fda826e4ddd94bbb1a81b04e7257a
+      internalID: 554785985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1275
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812f311e9b55e684893d613b1a674413
+      internalID: -205796688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1367
+        width: 192
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d39a45a711ff924d8227bb0dba3ee5b
+      internalID: 1151166565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_20
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1293
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3227261a9eab1348a5144e1d063863f
+      internalID: -798865004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_21
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1275
+        width: 137
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a25def87cf55d428064a477f8a0fa8
+      internalID: -509022111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_22
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1339
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81257fb647322254f9d16bb7fa6e7870
+      internalID: -164330168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_23
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1175
+        width: 116
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7924a3179490804685047de79ee04c5
+      internalID: -1439372974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1181
+        width: 141
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb985387c9ed6f47ad6015b409eeee8
+      internalID: -1399813384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1273
+        width: 192
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465fae44d882ce64ba0ab91ccf9b8936
+      internalID: 1582360554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1203
+        width: 140
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90faaac20f44ed4393fbcabe9a7a107
+      internalID: -1102038471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_27
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1181
+        width: 141
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed36a91ee46b0449739a76ebf0869c
+      internalID: 1859450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_28
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1227
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c16a28b16e8104f92b452bdd7b1923
+      internalID: 1777886492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1113
+        width: 141
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d0fd75762041349a118828c3d1e459
+      internalID: -1275377695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1181
+        width: 192
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac21fba5d06c02499df66e637ec2afe
+      internalID: -449791403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1085
+        width: 143
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7afbb92a44fff4fa50a9010cce783d
+      internalID: 2076853500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_32
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1115
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abed6352edd57745a1bfb3b6c191cca
+      internalID: -46824413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 995
+        width: 143
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b0ccbfe5381254da4567fecd1f5149
+      internalID: -540491272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 991
+        width: 297
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b732fae6085b0b4c8f79b7b89e59c42
+      internalID: 1962873231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_35
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 895
+        width: 150
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d852a1f1f91a0504b817c70b8d036ba1
+      internalID: -1685346583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_36
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 991
+        width: 146
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c844160475297d4a9cba511cf300bd9
+      internalID: 1309850007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_37
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1003
+        width: 138
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e331ef8c4b067488f7c6829bb4ce68
+      internalID: 147849601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_38
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1081
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027323afcc642f9488838012a4a5cf54
+      internalID: 1633058094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801
+        width: 494
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7867a62f971ede346b34a67ba6c32b90
+      internalID: 808909814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_40
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 801
+        width: 150
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eb62586077a1944a553d340fa1a62f
+      internalID: 194435373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_41
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 913
+        width: 133
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81995fba80bd72f4ca879fa8ab633b54
+      internalID: -64176490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_42
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 987
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afca137d71d2b4a4593abed30dfee73c
+      internalID: 1603443252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_43
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 801
+        width: 149
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde8d091d318b744095e66abf234280e
+      internalID: 575269601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_44
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 801
+        width: 134
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284e01f25abf9e94da45955a0b03ed41
+      internalID: 684440886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_45
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 893
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f51a4f09af15844a7a4387590be65a
+      internalID: -638849316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_46
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 801
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4adf0d6f8a08c428e808a13040fa13
+      internalID: -1151775327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b60e13f421cd99499bf0b19463edf17
+      internalID: -1177167150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 410
+        width: 253
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c4fc4472738c84a8151c5d49f00652
+      internalID: -620093472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 660
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4516c81665c386948b692e75e78cc4fa
+      internalID: -547112108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_50
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 706
+        width: 216
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11721451ec58261409498c67b67d2217
+      internalID: 1977601488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 672
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884163b64c3547a419681f01fca1b948
+      internalID: 91531654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_52
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 700
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f34aad710847224fbe4a0f309c43a26
+      internalID: 1218603143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 114
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d02cd3f128d854fa5ad20780c4243b
+      internalID: 370089984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_54
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 542
+        width: 111
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9352a92a5063b5d4b896cd3f6577d83d
+      internalID: 124239033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 588
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dfdb90b1a2a994c85f38da8218dade
+      internalID: -1756596962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_56
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 588
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a1d892a2509eb49bc9c25d51ccb4c0
+      internalID: -67533635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_57
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 554
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0080ae3a907df64f819a3c286fd7890
+      internalID: -1963737366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_58
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 582
+        width: 111
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d611b44a95705f343a93cb0a97b58f0d
+      internalID: 1880678126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_59
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 282
+        width: 123
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286543047ee417645a8d10e9f992c35a
+      internalID: -102981677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_60
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 346
+        width: 119
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7e8642bfc39144bbb101dfe71b09d1
+      internalID: -1755804635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_61
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 470
+        width: 224
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f57a71c1c7bc664eab39026cddd6778
+      internalID: -1516778331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_62
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 436
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac9652996680ad418ea5b8363f2c04d
+      internalID: -1610107118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_63
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 388
+        width: 117
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087f576e93de1e249b517f2079bb9e59
+      internalID: 1842870843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77cd9dd2fe8add49a2c0895072b5b52
+      internalID: -999763548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 286
+        width: 120
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b736f1e665dd2a446be4666243034014
+      internalID: 1259320115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_66
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 346
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe494bb9139554d9532c8dbc1b34c4
+      internalID: -477677587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_67
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 346
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52223a0a899032447965b4db313f7e34
+      internalID: -2035221223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_68
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 240
+        width: 123
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0c3739dd5d89d46aae4b16137c40fe
+      internalID: 1822102138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_69
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 121
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01350aa6951078644956ec4e49634b89
+      internalID: -2045834887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 125
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0456272c3601b04eb1e2c75091a6d0b
+      internalID: -1286610264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_71
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 176
+        width: 125
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e013663eaff02be4a99eb11473c276cb
+      internalID: -1314853959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 134
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db83555dbda9e1f49aff3a7100b3b4c0
+      internalID: -1992961705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_73
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 240
+        width: 125
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e780c01ef28c4a64f88b2cedd0733dab
+      internalID: -206907521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_74
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 240
+        width: 125
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e5a2e1c7909d9468e4ac60d4aed360
+      internalID: 517097664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_75
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 240
+        width: 125
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f806ea47ca13d3a4490d533c674edf5e
+      internalID: 431863741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 259
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ed7241f2766944b82d361d4fe1402b
+      internalID: -2147418529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_77
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 120
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1551ccf0f4e6214baac15da9d2f4fb4
+      internalID: -773702881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_78
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 120
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d72d2f550644a46a636dc84487b4b2
+      internalID: -636486503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_79
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 120
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cf0bfcec41b1f4d9f3028c9c599b4c
+      internalID: -1038178999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_80
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 120
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec915fe77458d74e8266fe988b30fe0
+      internalID: 417666978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_81
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7f5908790f4774b83c7b5a34f5a018
+      internalID: 1040875238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_82
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b057783c612b04abb8d37fca56d606
+      internalID: 88569513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_83
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109e6d2e61f70ab43abce99833272063
+      internalID: 1150881535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - GUMI_84
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e2db2ae046e664eb44f2da61ff1f7e
+      internalID: 270224089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +1917,92 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_0: -1400655117
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_1: -1712450917
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_10: 1208536545
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_11: 752160124
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_12: 934779563
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_13: -1195050369
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_14: -369282398
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_15: -2095903421
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_16: -338734973
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_17: 554785985
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_18: -205796688
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_19: 1151166565
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_2: -1973320874
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_20: -798865004
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_21: -509022111
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_22: -164330168
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_23: -1439372974
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_24: -1399813384
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_25: 1582360554
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_26: -1102038471
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_27: 1859450
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_28: 1777886492
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_29: -1275377695
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_3: 1740305629
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_30: -449791403
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_31: 2076853500
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_32: -46824413
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_33: -540491272
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_34: 1962873231
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_35: -1685346583
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_36: 1309850007
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_37: 147849601
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_38: 1633058094
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_39: 808909814
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_4: -1565672010
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_40: 194435373
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_41: -64176490
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_42: 1603443252
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_43: 575269601
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_44: 684440886
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_45: -638849316
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_46: -1151775327
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_47: -1177167150
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_48: -620093472
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_49: -547112108
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_5: 885191533
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_50: 1977601488
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_51: 91531654
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_52: 1218603143
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_53: 370089984
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_54: 124239033
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_55: -1756596962
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_56: -67533635
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_57: -1963737366
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_58: 1880678126
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_59: -102981677
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_6: 1223461738
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_60: -1755804635
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_61: -1516778331
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_62: -1610107118
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_63: 1842870843
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_64: -999763548
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_65: 1259320115
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_66: -477677587
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_67: -2035221223
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_68: 1822102138
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_69: -2045834887
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_7: 2985315
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_70: -1286610264
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_71: -1314853959
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_72: -1992961705
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_73: -206907521
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_74: 517097664
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_75: 431863741
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_76: -2147418529
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_77: -773702881
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_78: -636486503
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_79: -1038178999
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_8: 1521182919
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_80: 417666978
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_81: 1040875238
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_82: 88569513
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_83: 1150881535
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_84: 270224089
+      PlayStation Vita - Taiko no Tatsujin V Version - GUMI_9: 1009033114
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
