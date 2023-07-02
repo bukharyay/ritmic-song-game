@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:unity-ritmic-song-game/Assets/Animation.meta
 guid: d0dc863c33ebc5343b5e16949db47449
+========
+guid: 3775429320021e348833c92e99ef78a8
+>>>>>>>> origin/gameplay:unity-ritmic-song-game/Assets/Audio.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

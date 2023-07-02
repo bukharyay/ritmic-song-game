@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:unity-ritmic-song-game/ProjectSettings.meta
 guid: 141f4649533a51843b14573f0ba228d0
+========
+guid: 54df013128cd50c40b92959614661338
+>>>>>>>> origin/gameplay:unity-ritmic-song-game/Assets/StreamingAssets.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

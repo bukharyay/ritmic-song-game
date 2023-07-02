@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:unity-ritmic-song-game/Assets.meta
 guid: ec23721a1d1b76c43863069d1c5375bc
+========
+guid: 8bc0313c819636b4b8ec82d24b0c623f
+>>>>>>>> origin/gameplay:unity-ritmic-song-game/Assets/Melanchall.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

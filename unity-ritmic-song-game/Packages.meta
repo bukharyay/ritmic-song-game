@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:unity-ritmic-song-game/Packages.meta
 guid: 0f95ea5aac90f2f43a66f0d8628d91a5
+========
+guid: b5415a8cd546834488b8513e06948c8e
+>>>>>>>> origin/gameplay:unity-ritmic-song-game/Assets/Prefab.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
